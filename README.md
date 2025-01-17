@@ -2,6 +2,8 @@
 
 This project is a modern and responsive web hosting landing page, designed using **React** and **Tailwind CSS**.
 
+Preview: https://hostforge.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
